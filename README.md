@@ -1,5 +1,7 @@
 # Seedream v4 MCP Server
 
+[![smithery badge](https://smithery.ai/badge/@data-mindset/sts-seedream-mcp)](https://smithery.ai/server/@data-mindset/sts-seedream-mcp)
+
 MCP server for generating images using Bytedance's SeedDream 4.0 model via FAL AI.
 
 Built with [Smithery SDK](https://smithery.ai/docs)
