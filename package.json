@@ -1,0 +1,35 @@
+{
+	"name": "seedream-v4-smithery-server",
+	"version": "1.0.0",
+	"description": "MCP server for generating images using Bytedance's SeedDream 4.0 model via FAL AI",
+	"main": "index.js",
+	"module": "./src/index.ts",
+	"type": "module",
+	"scripts": {
+		"dev": "smithery dev",
+		"build": "smithery build"
+	},
+	"keywords": [
+		"mcp",
+		"model-context-protocol",
+		"image-generation",
+		"seedream",
+		"seedream-4.0",
+		"bytedance",
+		"fal-ai",
+		"ai",
+		"text-to-image",
+		"smithery"
+	],
+	"author": "",
+	"license": "MIT",
+	"dependencies": {
+		"@fal-ai/client": "^1.5.0",
+		"@modelcontextprotocol/sdk": "^1.20.0",
+		"@smithery/sdk": "^1.7.4",
+		"zod": "^3.25.46"
+	},
+	"devDependencies": {
+		"@smithery/cli": "^1.6.3"
+	}
+}
