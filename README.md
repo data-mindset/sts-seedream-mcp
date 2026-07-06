@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/data-mindset-sts-seedream-mcp-badge.png)](https://mseep.ai/app/data-mindset-sts-seedream-mcp)
+
 # Seedream v4 MCP Server
 
 MCP server for generating images using Bytedance's SeedDream 4.0 model via FAL AI.
